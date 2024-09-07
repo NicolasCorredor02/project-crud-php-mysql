@@ -21,7 +21,7 @@
     <nav class="navbar navbar-dark bg-dark">
       <ul class="container">
         <li>
-          <a href="index.html" class="navbar-brand">Students Register</a>
+          <a href="./index.php" class="navbar-brand">Students Register</a>
         </li>
       </ul>
     </nav>
